@@ -6,14 +6,14 @@
       }
 
       .cls-1, .cls-2, .cls-3 {
-        stroke: #2be8f7;
+        stroke: #562d66;
         stroke-linecap: round;
         stroke-linejoin: round;
         stroke-width: 6px;
       }
 
       .cls-2 {
-        fill: #2be8f7;
+        fill: #562d66;
       }
 
       .cls-3 {

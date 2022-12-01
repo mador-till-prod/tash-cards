@@ -2,7 +2,7 @@
   background-image: url(../assets/images/learning/home_header.svg);
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  color: rgb(28, 63, 85);
+  color: #1f0c30;
   font-weight: 800;
   text-align: center;
   margin-top: 4vw;
@@ -73,7 +73,7 @@
   height: 17vw;
   bottom: 0;
   background-image: linear-gradient(0deg,
-      rgba(25, 155, 191, 0.432),
+      #683f91b6,
       rgba(255, 255, 255, 0));
   pointer-events: none;
   z-index: 1;
@@ -105,7 +105,7 @@
   height: 120vw;
   background-repeat: no-repeat;
   background-size: cover;
-  color: rgb(27, 62, 84);
+  color: #1f0c30;
   position: relative;
   z-index: 1;
   background-image: url("../assets/images/practice/beforePractice_popup/beforePractice_popup.svg");
@@ -193,7 +193,7 @@
   background-image: url(../assets/images/learning/home_header.svg);
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  color: rgb(28, 63, 85);
+  color: #1f0c30;
   font-weight: 800;
   text-align: center;
   margin-top: 2vw;
@@ -346,7 +346,7 @@
 }
 
 .page.learning.content .card .title {
-  color: rgb(28, 63, 85);
+  color: #1f0c30;
   font-weight: 800;
   font-size: 1.4em;
   text-align: right;
@@ -369,7 +369,7 @@
 /* זה בשביל התת כותרות שנמצאות בתוך הכרטיסיות למידה */
 .page.learning.content .card .sub-title {
   font-size: 1.1em;
-  color: rgb(28, 63, 85);
+  color: #1f0c30;
   font-weight: 800;
 }
 

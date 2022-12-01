@@ -9,11 +9,11 @@
       }
 
       .cls-1, .cls-2 {
-        stroke: #2be8f7;
+        stroke: #562d66;
       }
 
       .cls-2 {
-        fill: #414042;
+        fill: #1f0c30;
       }
     </style>
   </defs>

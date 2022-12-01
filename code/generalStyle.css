@@ -90,7 +90,7 @@ body {
 }
 
 .page .end-exam {
-  color: rgb(27, 62, 84);
+  color: #1f0c30;
   width: 72vw;
   height: 114vw;
   background-repeat: no-repeat;
@@ -131,7 +131,8 @@ body {
 }
 
 .page.exam .end-exam .title-popup {
-   background-image: url("../assets/images/exam/name_bg.svg");
+  background-image: url(../assets/images/exam/name_bg.svg);
+  color: black;
 }
 
 .page .popup-sub-titles {
@@ -174,7 +175,7 @@ body {
   font-size: 6vmin;
   display: flex;
   justify-content: space-between;
-  color: rgb(28, 63, 85);
+  color: #1f0c30;
   margin-bottom: 1%;
   align-items: center;
 }
@@ -197,7 +198,7 @@ body {
 
 .page .progress-bar-right-answers,
 .page .progress-bar-time {
-  background-color: rgb(43, 232, 247);
+  background-color: #562d66;
   height: 2vmin;
   border-radius: 2rem;
   width: 0%;
@@ -220,7 +221,7 @@ body {
   width: 82%;
   right: 8%;
   top: 14%;
-  color: rgb(28, 63, 85);
+  color: #1f0c30;
   font-size: 4.3vmin;
   overflow: auto;
 }
@@ -231,7 +232,7 @@ body {
   width: 82%;
   right: 8%;
   top: 17%;
-  color: rgb(28, 63, 85);
+  color: #1f0c30;
   font-size: 4.2vmin;
   overflow: auto;
 }
@@ -270,7 +271,7 @@ body {
 
 /*לפני המבחן*/
 .page .exam-popup {
-  color: rgb(27, 62, 84);
+  color: #1f0c30;
   width: 18em;
   height: 32em;
   background-repeat: no-repeat;
@@ -369,7 +370,7 @@ body {
 
 /* יציאה ממבחן או תרגול פופאפ */
 .page .exit-popup {
-  color: rgb(27, 62, 84);
+  color: #1f0c30;
   width: 78vw;
   height: 65vw;
   background-repeat: no-repeat;
@@ -396,7 +397,7 @@ body {
 
 /* פוופאפ מעבר לתרגול בתוך עמוד הלמידה רק על נושא אחד */
 .page .before-practice-one-sub {
-  color: rgb(27, 62, 84);
+  color: #1f0c30;
   width: 72vw;
   height: 94.5vw;
   background-repeat: no-repeat;
